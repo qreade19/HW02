@@ -108,6 +108,7 @@ void Phone_Directory::save()
 	}
 }
 
+//Updated by Jude Battista 17 Feb 2017
 /** Removes the entry at the given index.
 @param index The index of the entry to be removed
 */
@@ -128,6 +129,7 @@ void Phone_Directory::remove_entry(int index) {
 	modified = true;
 }
 
+//Updated by Jude Battista 17 Feb 2017
 /** Remove an entry
 post: The name is no longer in the directory
 @param name The name to be removed

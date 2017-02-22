@@ -85,6 +85,7 @@ void do_lookup_entry(Phone_Directory& the_directory)
 	}
 }
 
+//Updated by Jude Battista 17 Feb 2017
 void do_remove_entry(Phone_Directory& the_directory) // Exercise 1.8: please complete the function do_remove_entry - Ed/Kent
 {
 	string name;
